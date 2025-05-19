@@ -72,4 +72,4 @@ Como se trata de um treino, aqui vão sugestões de melhorias para aprofundar o 
 
 ## 📚 Autor
 
-- Feito por **Pedro** como **exercício de treino em Java**.
+- Feito por **Leonardo Sena** como **exercício de treino em Java**.

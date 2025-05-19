@@ -59,17 +59,6 @@ c.consultarSaldo();
 
 ---
 
-## ✅ Melhorias futuras (opcional)
-
-Como se trata de um treino, aqui vão sugestões de melhorias para aprofundar o aprendizado:
-
-- Tratar exceções ao invés de usar apenas `System.out.println`
-- Criar um menu interativo via terminal
-- Persistência em arquivo ou banco de dados
-- Implementar testes automatizados
-
----
-
 ## 📚 Autor
 
 - Feito por **Leonardo Sena** como **exercício de treino em Java**.
